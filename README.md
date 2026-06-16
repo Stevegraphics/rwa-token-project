@@ -1,3 +1,5 @@
+Project Architecture:
+This repository demonstrates a complete DeFi ecosystem. It includes an RWAAsset (ERC-20 token) for real-world assets, a MockToken (for rewards), and a StakingVault that manages the secure interaction between them. The system uses ReentrancyGuard and SafeERC20 to ensure institutional-grade security.
 # RWA Token Implementation
 A regulated ERC-20 smart contract for Real-World Asset (RWA) tokenization, featuring KYC-whitelist compliance and emergency pause controls.
 
